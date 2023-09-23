@@ -1,5 +1,3 @@
-// Laget av Philip
-
 import {useEffect, useState} from "react";
 import Footer from "./components/Footer";
 import portrait1 from "./img/portrait1.jpg";
