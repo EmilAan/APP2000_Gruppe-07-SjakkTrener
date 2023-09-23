@@ -1,5 +1,3 @@
-// Laget av Adrian, redesignet av Philip
-
 import React, { useState, useEffect } from "react";
 import Footer from "./components/Footer";
 import axios from "axios";
