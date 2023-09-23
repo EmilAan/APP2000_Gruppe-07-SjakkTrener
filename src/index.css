@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+    CSS fil, nødvendig for å bruke TailwindCSS. Eventuelle CSS klasser som brukes
+*/
+
+.bakgrunn {
+    background-image: url("./img/sjakklogin.jpg" ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.learn {
+    background-image: url("./img/learn.jpg" ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tactic {
+    background-image: url("./img/tactic.jpg" ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#errorMessage {
+    white-space: break-spaces;
+}
