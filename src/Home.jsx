@@ -1,4 +1,4 @@
-// Laget av Philip
+
 // Bruker IndexNotAuthenticated.jsx og IndexAuthenticated.jsx for å vise riktig innhold avhengig av om bruker er logget inn eller ikke.
 import React from "react";
 import Footer from "./components/Footer";
