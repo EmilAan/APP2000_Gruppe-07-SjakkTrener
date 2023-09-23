@@ -1,6 +1,3 @@
-// Laget av Endre Kvam
-// Redesignet av Philip og Emil, slik at den skal bli så brukervennlig som mulig
-
 import React, { useState, useEffect } from "react";
 import Footer from "./components/Footer";
 import ChessBoard from "./integrations/ChessBoard";
