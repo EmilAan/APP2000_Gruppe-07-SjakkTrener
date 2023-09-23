@@ -1,4 +1,4 @@
-//Navigasjonsbaren er laget av Philip og Adrian
+
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
