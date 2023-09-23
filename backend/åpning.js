@@ -1,5 +1,3 @@
-//Laget av Endre, skjema for åpninger
-
 const mongoose = require('mongoose');
 const åpning = new mongoose.Schema({
     username: String,
