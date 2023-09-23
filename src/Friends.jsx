@@ -1,4 +1,3 @@
-// Laget av Philip
 
 import {useState, useEffect} from "react";
 import Footer from "./components/Footer";
