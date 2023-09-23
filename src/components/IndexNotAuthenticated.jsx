@@ -1,4 +1,3 @@
-//Indexside er laget av Philip
 
 import React from "react";
 import { Fade } from "react-awesome-reveal";
