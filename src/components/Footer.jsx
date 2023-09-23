@@ -1,4 +1,3 @@
-//Footer er laget av Philip
 import React from "react";
 import SocialLogo from "social-logos";
 import { Link } from "react-router-dom";
