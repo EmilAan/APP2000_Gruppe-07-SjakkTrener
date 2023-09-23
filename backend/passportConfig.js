@@ -1,5 +1,3 @@
-// Hele gruppen har bidratt til passportConfig.js
-
 const User = require("./user");
 const bcrypt = require("bcryptjs");
 const user = require("./user");
