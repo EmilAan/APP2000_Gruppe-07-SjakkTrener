@@ -1,6 +1,3 @@
-//Indexsiden er laget av Philip
-//Ved authenticated er det blitt lagt til en metode som henter brukerinformasjonen.
-//Denne brukerinformasjonen brukes for å identfisere brukeren ved innlogging.
 
 import React, { useState, useEffect }from "react";
 import axios from "axios";
