@@ -1,7 +1,3 @@
-//Front-end laget av Philip
-//Planen var å lage en nettside med oversikt av venner, slik som denne
-//Men pga andre prioriteringer har vi lagt dette til side.
-
 import React from "react";
 import Footer from "./components/Footer";
 import NavbarNotAuthenticated from "./components/NavbarNotAuthenticated";
