@@ -1,5 +1,3 @@
-//Denne siden har Endre laget
-//Denne siden er blitt redesignet av Philip og Emil, slik at den skal bli brukervennlig som mulig
 
 import React from "react";
 import Footer from "./components/Footer";
