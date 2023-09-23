@@ -1,5 +1,3 @@
-// Laget av Endre Kvam
-
 import React, { useState, useEffect } from "react";
 import Footer from "./components/Footer";
 import { listeMedTrekk } from "./integrations/moves.js";
