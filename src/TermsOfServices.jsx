@@ -1,4 +1,3 @@
-//Denne siden er laget av Jøren
 
 import React, { useState, useEffect } from "react";
 import axios from "axios";
