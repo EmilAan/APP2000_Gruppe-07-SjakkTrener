@@ -1,5 +1,3 @@
-// Laget av Adrian og Emil
-
 const mongoose = require('mongoose');
 const user = new mongoose.Schema({
     username: {
