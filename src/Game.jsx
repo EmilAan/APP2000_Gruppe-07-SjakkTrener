@@ -1,5 +1,3 @@
-// Laget av Endre
-
 import { useEffect, useState, React } from "react";
 import Footer from "./components/Footer";
 import ChessBoard from "./integrations/ChessBoard";
