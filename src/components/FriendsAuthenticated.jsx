@@ -1,4 +1,3 @@
-// Laget av Philip, koden er gjenbrukt
 
 import React from "react";
 import { UserCircleIcon } from "@heroicons/react/outline";
