@@ -1,4 +1,4 @@
-// Laget av Philip og Emil
+
 
 import React from "react";
 import Footer from "./components/Footer";
