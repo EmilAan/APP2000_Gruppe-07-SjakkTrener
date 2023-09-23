@@ -1,5 +1,4 @@
-//Denne er laget av Philip
-//Koden er gjenbrukt, siden mye av dette er ganske likt
+
 import React from "react";
 import { Link } from "react-router-dom";
 
