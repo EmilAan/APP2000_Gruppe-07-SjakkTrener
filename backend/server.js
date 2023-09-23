@@ -1,5 +1,3 @@
-// Alle gruppemedlemmer har bidratt til server.js
-
 const mongoose = require("mongoose");
 const express = require("express");
 const cors = require("cors");
